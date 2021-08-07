@@ -17,9 +17,9 @@
     <img alt="Almabud's Github" width="35x" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 </p>
-<p align="center" height="100" width="100">
-  <a href="https://gpvc.arturio.dev/almabud" align="center">![Profile views](https://gpvc.arturio.dev/ahmedsadman)</a>
-</p>
+<!--<p align="center" height="100" width="100">
+  <a href="https://gpvc.arturio.dev/almabud" align="center">![Profile views](https://gpvc.arturio.dev/almabud)</a>
+</p>-->
 
 ## 👨🏻‍💻 About Me
 
