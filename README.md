@@ -1,6 +1,7 @@
 <p align="center" height="100" width="100">
   <a href="https://github.com/almabud" target="_blank">
-   <img src="https://i.imgur.com/yZkJJG4.gif" alt="animated" />
+   <!--<img src="https://i.imgur.com/yZkJJG4.gif" alt="animated" />-->
+    <img src="https://i.imgur.com/CkBAzep.gif" alt="animated" />
   </a>
 </p>
 <p align="center">
