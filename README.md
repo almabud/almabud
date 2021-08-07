@@ -60,5 +60,5 @@
 ![badge-do](https://img.shields.io/badge/cloud-digitalocean-f6c819?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 
-![Ansible](https://img.shields.io/badge/automation-jenkis-f6c819?style=for-the-badge&logo=ansible&logoColor=white&labelColor=21223e)
+![Ansible](https://img.shields.io/badge/automation-ansible-f6c819?style=for-the-badge&logo=ansible&logoColor=white&labelColor=21223e)
 ![Jenkins](https://img.shields.io/badge/ci/cd-jenkins-f6c819?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=21223e)
