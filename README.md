@@ -56,9 +56,8 @@
 ![Mongo](https://img.shields.io/badge/database-mongodb-f6c819?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
 ![Neo4j](https://img.shields.io/badge/database-neo4j-f6c819?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=21223e)
 
-![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
-![badge-do](https://img.shields.io/badge/cloud-digitalocean-f6c819?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=21223e)
-![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![Docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
+![Digitalocean](https://img.shields.io/badge/cloud-digitalocean-f6c819?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=21223e)
 
 ![Ansible](https://img.shields.io/badge/automation-ansible-f6c819?style=for-the-badge&logo=ansible&logoColor=white&labelColor=21223e)
 ![Jenkins](https://img.shields.io/badge/ci/cd-jenkins-f6c819?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=21223e)
