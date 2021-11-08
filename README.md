@@ -26,7 +26,7 @@
 ```js
 {
   title: 'Software Engineer',
-  company: 'Tirzok Private Limited',
+  company: 'Brainstation 23 Ltd.',
   Interests: ['Web', 'Cross-platform', 'Cloud', 'Machine Learning'],
   hobbies: ['Arduino Projects', 'Coding', 'Movies/Series'],
   birthDay: {
